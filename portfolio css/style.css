@@ -1,0 +1,32 @@
+.main-head{
+    font-size: 30px;
+    font-weight: 700px;
+}
+nav{
+    display: flex;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color: rgb(239, 161, 6);
+}
+nav > ul{
+    display: flex;
+}
+   
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.714);
+}
+.btn-primary{
+    border-radius: 2px;
+    color:rgb(232, 229, 223); ;
+    background-color: rgb(239, 161, 6);;
+    font-size: 20px;
+    font-weight: 700px;
+}
