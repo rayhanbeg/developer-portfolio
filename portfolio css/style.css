@@ -35,3 +35,12 @@ nav a{
     border: 0;
     padding: 15px 30px;
 }
+.header{
+    background-color: rgba(244, 227, 173, 0.268);
+}
+nav{
+    margin:0 200px;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+}
