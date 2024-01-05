@@ -4,6 +4,8 @@
 }
 nav{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -13,6 +15,7 @@ body{
 }
 nav > ul{
     display: flex;
+    align-items: center;
 }
    
 nav li{
@@ -29,4 +32,6 @@ nav a{
     background-color: rgb(239, 161, 6);;
     font-size: 20px;
     font-weight: 700px;
+    border: 0;
+    padding: 15px 30px;
 }
