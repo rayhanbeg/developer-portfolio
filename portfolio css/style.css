@@ -48,13 +48,15 @@ nav{
     padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     
 }
 .banner.profile-picture{
     width: 500px;
+    
 }
 .banner-content{
-
+    max-width: 500px;
 }
 .banner-welcome{
     /* width: 600px; */
@@ -65,4 +67,27 @@ nav{
     font-size: 80px;
     width: 700px;
     margin-top: 5px;
+}
+.banner-desciption{
+    padding-bottom: 20px;
+    /* padding-top: 20px; */
+}
+.section-title{
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700px;
+}
+.about{
+    margin: 130px 0;
+    border-radius: 10px;
+    background: #FFF8F3;
+}
+.section-description{
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    
 }
