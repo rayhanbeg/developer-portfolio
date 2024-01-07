@@ -40,9 +40,9 @@ nav a{
 }
 .header{
     background-color: rgba(244, 227, 173, 0.268);
-    background-image: url('../header_bg.png');
+    background-image: url('../header_bg.png'),url('../developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right,top left;
 }
 nav{
     margin:0 200px;
