@@ -98,7 +98,7 @@ nav{
 main{
     max-width: 1140px;
     margin: 0 auto;
-    height: 550px;
+    /* height: 550px; */
     
 }
 .about-info-container{
@@ -169,4 +169,9 @@ margin-bottom: 10px;
 .download-cv{
     text-align: center;
     margin-top: 50px;
+}
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 218px;
 }
